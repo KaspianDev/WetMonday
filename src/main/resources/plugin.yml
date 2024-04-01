@@ -1,0 +1,4 @@
+name: WetMonday
+version: '${version}'
+main: com.github.kaspiandev.wetmonday.WetMonday
+api-version: '1.20'
